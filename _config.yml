@@ -11,7 +11,7 @@ title: VizFin - Visualizing Finance
 email: beconae@gmail.com
 description: Educational Finance Visualizations using Javascript
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rickpaul.github.io/viz-fin" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 github_username:  rickpaul
 
 # Build settings
