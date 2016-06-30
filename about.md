@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+# VizFin: Visualizing Finance
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# (Better name to follow...)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+This is a small site created to host a few finance-focused visualizations I created.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The project is the direct result of struggling with some elements of the CFA. As a visual thinker, I often found it much easier to grasp a concept once I had a clear visualization of its functionality. Easier than memorizing a bunch of formulas!
